@@ -1,7 +1,7 @@
 # Binaries for programs and plugins
 *.exe
 *.msi
-#*.exe~
+*.exe~
 #*.dll
 #*.so
 #*.dylib
