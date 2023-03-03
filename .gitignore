@@ -1,5 +1,6 @@
 # Binaries for programs and plugins
 *.exe
+*.msi
 #*.exe~
 #*.dll
 #*.so
@@ -12,5 +13,5 @@
 AHK-Studio Backup/
 #AHK Code Files/ProgramHelperFile - Cascades.exe
 #AHK Code Files/Cascades.exe
-#README.rtf
+~README.rtf
 #*.rtf
