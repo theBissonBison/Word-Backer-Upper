@@ -1,16 +1,16 @@
 # Binaries for programs and plugins
 *.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+#*.exe~
+#*.dll
+#*.so
+#*.dylib
 # Test binary, built with `go test -c`
-*.test
+#*.test
 # Output of the go coverage tool, specifically when used with LiteIDE
-*.out
+#*.out
 # Dependency directories (remove the comment below to include it)
 AHK-Studio Backup/
-AHK Code Files/ProgramHelperFile - Cascades.exe
-AHK Code Files/Cascades.exe
-README.rtf
-*.rtf
+#AHK Code Files/ProgramHelperFile - Cascades.exe
+#AHK Code Files/Cascades.exe
+#README.rtf
+#*.rtf
